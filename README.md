@@ -1,5 +1,2 @@
 # suraaj
 
-# asfsdfs
-# sdfdsfsd
-# sdfsdf
