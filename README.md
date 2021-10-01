@@ -1,4 +1,4 @@
-# suraaj
+# Suraaj
 
 # Python Interview Questions:
 
@@ -20,3 +20,18 @@
 ### 14.Median value of a specific column is found out using median() function.
 ### 15.Unique value of a specific column is found out using unique() function.
 ### 16.Count of unique values are found out using counts() function.
+
+# Linear Regression Dataset Preprocessing ;
+
+## Dataset preprocessing is done using Jupyter Notebook.  
+
+## Numbers represent the steps numbers.
+
+### 1.Pandas,Numpy,Matplotlib,Seaborn libraries are imported.
+### 2.New dataset named AirQualityUCI is imported by using read_csv function.
+### 3.To check the null values info() function is used.
+### 4.The columns with most null values are dropped using drop() function.
+### 5.Checking if there is null values in the dataset using isnull().sum() function.
+### 6.Outliers are displayed using plt.boxplot().
+
+
